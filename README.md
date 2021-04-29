@@ -5,3 +5,5 @@
 
 reduce를 사용해서 위의 기능을 구현하였다.
 
+
+![asdfasfasdf](https://user-images.githubusercontent.com/59689327/116563480-05c89f80-a93f-11eb-9d79-deba74d8795b.PNG)
